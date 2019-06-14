@@ -1,0 +1,23 @@
+#name {
+    color: #ffffff !important;
+    background-color: #4aaaa5 !important;
+}
+li{
+    text-decoration: none !important;
+}
+a{
+    color: #777777 !important;
+}
+body{
+    background-color: lightgray;
+}
+.jumbotron{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 30px;
+    margin-bottom: 115px;
+}
+#pics {
+    display: inline-block;
+    margin: 10px;
+}
